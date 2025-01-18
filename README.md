@@ -1,5 +1,5 @@
 # VICmedicament
-__## ℹ️ Informations  :__
+__ℹ️ Informations  :__
 
 • Permet d’ajoute un point bleu sur la map (à mettre dans une pharmacie je vous conseille)  qui permet de se soigner même si on est pas malade. 
 
